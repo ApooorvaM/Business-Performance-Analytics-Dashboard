@@ -260,7 +260,8 @@ Sales-Customer-Dashboard/
 
 ## Sales Dashboard
 
-> *(Insert screenshot here)*
+> <img width="695" height="395" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/33f90a52-6e2f-4e3b-ad3c-5417344ece30" />
+
 
 ```
 images/sales_dashboard.png
@@ -270,7 +271,8 @@ images/sales_dashboard.png
 
 ## Customer Dashboard
 
-> *(Insert screenshot here)*
+> <img width="693" height="393" alt="Customer Dashboard" src="https://github.com/user-attachments/assets/0bb19c05-da9e-4218-9236-9d5f5931de02" />
+
 
 ```
 images/customer_dashboard.png
@@ -280,7 +282,8 @@ images/customer_dashboard.png
 
 ## Interactive Filters
 
-> <img width="695" height="395" alt="image" src="https://github.com/user-attachments/assets/9bcfde86-a0a4-4c34-88c8-293ee275dd28" />
+> <img width="121" height="346" alt="Filters" src="https://github.com/user-attachments/assets/a0c2382a-ad84-46ba-87b2-045d1ade9fcb" />
+
 
 
 # 🌐 Live Dashboard
